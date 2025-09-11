@@ -69,7 +69,5 @@ It aims to deliver insights that support better decision-making around underwrit
 
  
 
----
 
 
-Would you also like me to **add badges** (like Power BI, Excel, Data Analytics) at the top of the README for extra polish?
